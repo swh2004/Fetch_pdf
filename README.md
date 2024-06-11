@@ -32,3 +32,4 @@ The output file follows the rules below
 
 1. The phone number and email only output the one with the most appearance times
 2. The page list contains all the pages where phone and email appear.
+3. If none of the phone number and email is found, then it will be blank.
