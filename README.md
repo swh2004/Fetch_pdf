@@ -19,11 +19,9 @@ The script then reads an input CSV file that contains the necessary data (fund n
 ## Instructions to run
 
 1. Download the ipynb file and upload to Google Drive
-2. Open a new Google Colab notebook.
-3. Select 'file' and 'open notebook'
-4. Select fetch_pdf_final.ipynb
-5. Rename the input file to 'input.csv'
-6. Open the left column with the 'file' image
-7. Upload 'input.csv'
-8. Click 'run' subsequently.
-9. Download 'output.csv' for the result.
+2. Open the file in Google Drive
+3. Rename the input file to 'input.csv'
+4. Open the left column with the 'file' image
+5. Upload 'input.csv'
+6. Click 'run' subsequently.
+7. Download 'output.csv' for the result.
