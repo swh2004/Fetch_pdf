@@ -25,3 +25,10 @@ The script then reads an input CSV file that contains the necessary data (fund n
 5. Upload 'input.csv'
 6. Click 'run' subsequently.
 7. Download 'output.csv' for the result.
+
+## Output Rules
+
+The output file follows the rules below
+
+1. The phone number and email only output the one with the most appearance times
+2. The page list contains all the pages where phone and email appear.
